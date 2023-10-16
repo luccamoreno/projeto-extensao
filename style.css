@@ -71,6 +71,7 @@ header >  p {
 nav{
     background-color: var(--cor5);
     padding: 10px;
+    text-align: center;
     
 }
  nav > a {
@@ -145,7 +146,11 @@ main a:hover{
 }
 
 main img{
-    width: 100%;
+    width: 50%;
+    display: block;
+    margin: auto;
+
+
 }
 
 main img.pequeno{
